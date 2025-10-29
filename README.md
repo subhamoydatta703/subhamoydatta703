@@ -6,7 +6,8 @@
 <p align="center">
 🎓 I'm a B.Tech CSE (AI/ML) student who loves to code, build creative projects, and explore modern technologies.<br>
 💡 Passionate about learning new tools, improving problem-solving skills, and contributing to open-source projects.<br>
-🚀 Always exploring — from web development to AI experiments.
+🚀 Always exploring — from web development to AI experiments.<br><br>
+😄 I enjoy solving math problems with code, thinking about the universe and physics, and turning ideas into reality.
 </p>
 
 ---
