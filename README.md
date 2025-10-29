@@ -29,12 +29,7 @@
 
 ---
 
-### 💼 My Projects
-<ul>
-  <li><a href="https://github.com/subhamoydatta703/project1">Project 1</a> – A cool web app built using React and Node.js</li>
-  <li><a href="https://github.com/subhamoydatta703/project2">Project 2</a> – Python project with AI/ML integration</li>
-  <li><a href="https://github.com/subhamoydatta703/project3">Project 3</a> – Flutter app for mobile users</li>
-</ul>
+
 
 ---
 
@@ -52,10 +47,10 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/subhamoydatta703" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/subhamoy-datta" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/codebysubhamoy" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="mailto:subhamoydatta703@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
-
 ---
 
 ⭐ **"Code. Learn. Build. Repeat."**
