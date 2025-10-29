@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Subhamoy Datta</h1>
-<h1 align="center">Hi 👋, I'm Subhamoy Datta</h1>
-<h1 align="center">Hi 👋, I'm Subhamoy Datta</h1>
 <h3 align="center">
 A passionate Full-Stack Developer and B.Tech CSE (AI/ML) student, exploring modern web technologies, Artificial Intelligence, and Machine Learning.
 </h3>
