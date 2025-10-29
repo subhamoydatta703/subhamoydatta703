@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhamoy Datta</h1>
 <h3 align="center">An aspiring Full-Stack Developer exploring AI and Machine Learning</h3>
 
----
+
 
 <p align="center">
 🎓 I'm a B.Tech CSE (AI/ML) student who loves to code, build creative projects, and explore modern technologies.<br>
@@ -10,7 +10,7 @@
 😄 I enjoy solving math problems with code, thinking about the universe and physics, and turning ideas into reality.
 </p>
 
----
+
 
 ### ⚙️ Languages and Tools
 
@@ -28,11 +28,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma" alt="Mobile & IDE" />
 </p>
 
----
 
-
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -43,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamoydatta703&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -52,6 +48,6 @@
   <a href="https://x.com/codebysubhamoy" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="mailto:subhamoydatta703@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
----
+
 
 ⭐ **"Code. Learn. Build. Repeat."**
