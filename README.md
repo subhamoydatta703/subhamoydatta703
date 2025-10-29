@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Languages and Tools
+### 🛠️ Languages and Tools
 
 <p align="center">
   <!-- Programming Languages -->
