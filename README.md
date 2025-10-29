@@ -15,13 +15,13 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" alt="Languages" />
   <br/>
   <!-- Web & Frameworks -->
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" alt="Web Dev" />
   <br/>
   <!-- Database & AI/ML -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,numpy" alt="DB & AI Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,numpy" alt="DB & AI Tools" />
   <br/>
   <!-- Mobile & IDEs -->
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma" alt="Mobile & IDE" />
