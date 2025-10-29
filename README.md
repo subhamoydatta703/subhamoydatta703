@@ -1,84 +1,61 @@
-<!-- 🌟 Subhamoy Datta - Modern GitHub Profile README 🌟 -->
-
 <h1 align="center">Hi 👋, I'm Subhamoy Datta</h1>
-<h3 align="center">
-A passionate Full-Stack Developer and B.Tech CSE (AI/ML) student, exploring modern web technologies, Artificial Intelligence, and Machine Learning.
-</h3>
+<h3 align="center">An aspiring Full-Stack Developer exploring AI and Machine Learning</h3>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhamoydatta703&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+🎓 I'm a B.Tech CSE (AI/ML) student who loves to code, build creative projects, and explore modern technologies.<br>
+💡 Passionate about learning new tools, improving problem-solving skills, and contributing to open-source projects.<br>
+🚀 Always exploring — from web development to AI experiments.
 </p>
 
 ---
 
-### 💫 About Me  
-
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**  
-- 💬 Ask me about **Full Stack Development, Python, or Java**  
-- ⚡ Fun fact: I love solving math problems and exploring physics concepts!  
-- 📫 Reach me at **[subhamoydatta99@gmail.com](mailto:subhamoydatta99@gmail.com)**  
-
----
-
-### 🌐 Connect with Me  
+### 🧠 Languages and Tools
 
 <p align="center">
-  <a href="https://twitter.com/codebysubhamoy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/subhamoy-datta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:subhamoydatta99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" alt="Languages" />
+  <br/>
+  <!-- Web & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" alt="Web Dev" />
+  <br/>
+  <!-- Database & AI/ML -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,numpy" alt="DB & AI Tools" />
+  <br/>
+  <!-- Mobile & IDEs -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma" alt="Mobile & IDE" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools  
+### 💼 My Projects
+<ul>
+  <li><a href="https://github.com/subhamoydatta703/project1">Project 1</a> – A cool web app built using React and Node.js</li>
+  <li><a href="https://github.com/subhamoydatta703/project2">Project 2</a> – Python project with AI/ML integration</li>
+  <li><a href="https://github.com/subhamoydatta703/project3">Project 3</a> – Flutter app for mobile users</li>
+</ul>
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,java,python,c,git,linux,postman,figma,photoshop" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhamoydatta703&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=subhamoydatta703&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamoydatta703&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=subhamoydatta703&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamoydatta703&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhamoydatta703&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/subhamoydatta703" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://x.com/codebysubhamoy" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="mailto:subhamoydatta703@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhamoydatta703&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-### 💻 Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
----
-
-<h3 align="center">✨ Keep Learning, Keep Building ✨</h3>
+⭐ **"Code. Learn. Build. Repeat."**
