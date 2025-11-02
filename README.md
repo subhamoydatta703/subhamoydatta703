@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" alt="Languages" />
   <br/>
   <!-- Web & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,postman" alt="Web Dev" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,postman" alt="Web Dev" />
   <br/>
   <!-- Database & AI/ML -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,numpy" alt="DB & AI Tools" />
