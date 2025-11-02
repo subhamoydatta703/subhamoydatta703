@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,numpy" alt="DB & AI Tools" />
   <br/>
   <!-- Mobile & IDEs -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma" alt="Mobile & IDE" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,jupyter,figma" alt="Mobile & IDE" />
 </p>
 
 
