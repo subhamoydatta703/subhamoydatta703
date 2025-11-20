@@ -4,11 +4,11 @@
 
 
 <p align="center">
-🎓 I'm a B.Tech CSE (AI/ML) student who loves to code, build creative projects, and explore modern technologies.<br>
-💡 Passionate about learning new tools, improving problem-solving skills, and contributing to open-source projects.<br>
-🚀 Always exploring — from web development to AI experiments.<br><br>
-😄 I enjoy solving math problems with code, thinking about the universe and physics, and turning ideas into reality.
+  <img src="https://readme-typing-svg.herokuapp.com?color=B56CFF&size=24&center=true&vCenter=true&width=900&lines=🎓+I'm+a+B.Tech+CSE+(AI/ML)+student;who+loves+to+code+and+build+creative+projects;💡+Passionate+about+learning+new+tools;Improving+problem-solving+skills;Contributing+to+open-source;🚀+Exploring+web+development+to+AI+experiments;😄+I+love+math%2C+physics%2C+and+creative+ideas" />
 </p>
+
+
+
 
 
 
@@ -32,10 +32,38 @@
 
 
 ### 📊 GitHub Stats
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamoydatta703&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-<img src="https://img.shields.io/badge/GitHub_Streak-Active-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhamoydatta703&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamoydatta703&theme=tokyonight" />
+</p>
+
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subhamoydatta703&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph (Fixed matching theme) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamoydatta703&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamoydatta703&layout=compact&theme=tokyonight" alt="Top Languages" />
