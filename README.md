@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=900&lines=🎓+I'm+a+B.Tech+CSE+(AI/ML)+student;who+loves+to+code+and+build+creative+projects;💡+Passionate+about+learning+new+tools;Improving+problem-solving+skills;Contributing+to+open-source;🚀+Exploring+web+development+to+AI+experiments;😄+I+love+math%2C+physics%2C+and+creative+ideas" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=900&lines=+I'm+a+B.Tech+CSE+(AI/ML)+student;who+loves+to+code+and+build+creative+projects;+Passionate+about+learning+new+tools;Improving+problem-solving+skills;Contributing+to+open-source;+Exploring+web+development+to+AI+experiments;+I+love+math%2C+physics%2C+and+creative+ideas" />
 </p>
 
 
