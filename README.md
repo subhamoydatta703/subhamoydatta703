@@ -16,39 +16,29 @@
 ### ⚙️ Languages and Tools
 
 <p align="center">
+
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" alt="Languages" />
-  <br/>
+
   <!-- Web & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,postman" alt="Web Dev" />
-  <br/>
-  <!-- Database & AI/ML -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,postman" alt="Web Development" />
+
+  <!-- Databases, Tools & AI -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,numpy" alt="DB & AI Tools" />
-  <br/>
-  <!-- Mobile & IDEs -->
-  <img src="https://skillicons.dev/icons?i=vscode,figma" alt="Mobile & IDE" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" />
+
+  <!-- IDEs & Others -->
+  <img src="https://skillicons.dev/icons?i=vscode,figma" alt="IDEs" />
+
+  <!-- Jupyter (manual icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" />
+
 </p>
+
 
 
 ### 📊 GitHub Stats
 <p align="center">
-  ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamoydatta703&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhamoydatta703&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamoydatta703&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamoydatta703&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamoydatta703&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" />
 </p>
 
 
