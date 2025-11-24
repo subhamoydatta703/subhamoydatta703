@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,numpy" alt="DB & AI Tools" />
   <br/>
   <!-- Mobile & IDEs -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma" alt="Mobile & IDE" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma" alt="Mobile & IDE" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" />
 </p>
 
