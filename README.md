@@ -6,8 +6,6 @@
 
 ---
 
-
-
 <h2 align="center">About Me</h2>
 
 <h3 align="center">
@@ -21,18 +19,14 @@ Backend Development • REST APIs • OAuth • JWT • Database Design
 </h4>
 
 <h4 align="center">
-Deployment & Hosting • Data Structures & Algorithms • Machine Learning
+Redis • Docker • Multer • Data Structures & Algorithms • Machine Learning
 </h4>
 
 <h3 align="center">Currently Learning</h3>
 
 <h4 align="center">
-System Design • Docker • AWS
+System Design • BullMQ • AWS • GenAI Backend Development
 </h4>
-
-
-
-
 
 ---
 
@@ -46,7 +40,7 @@ System Design • Docker • AWS
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,bun,postman" alt="Backend" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis" alt="Databases" />
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" alt="DevOps" />
 
@@ -97,5 +91,5 @@ System Design • Docker • AWS
 ---
 
 <p align="center">
-  <strong>Turning Ideas into Software.</strong>
+  <strong>Building Scalable Backend Systems & Turning Ideas into Software.</strong>
 </p>
