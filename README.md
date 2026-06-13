@@ -1,9 +1,8 @@
 <h1 align="center">Subhamoy Datta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Problem+Solver;Machine+Learning+Enthusiast;Creative+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Problem+Solver;Machine+Learning+Enthusiast;Creative+Coder" />
 </p>
-
 ---
 
 <h2 align="center">About Me</h2>
@@ -12,21 +11,25 @@
 Backend Developer • Problem Solver • Machine Learning Enthusiast
 </h3>
 
-<h3 align="center">Core Skills</h3>
+<h2 align="center">Core Skills</h2>
 
-<h4 align="center">
+<h3 align="center">
 Backend Development • REST APIs • OAuth • JWT • Database Design
-</h4>
+</h3>
 
-<h4 align="center">
-Redis • Docker • Multer • Data Structures & Algorithms • Machine Learning
-</h4>
+<h3 align="center">
+Redis • Docker • Multer • Data Structures & Algorithms
+</h3>
 
-<h3 align="center">Currently Learning</h3>
+<h3 align="center">
+Machine Learning: NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+</h3>
 
-<h4 align="center">
+<h2 align="center">Currently Learning</h2>
+
+<h3 align="center">
 System Design • BullMQ • AWS • GenAI Backend Development
-</h4>
+</h3>
 
 ---
 
@@ -44,7 +47,7 @@ System Design • BullMQ • AWS • GenAI Backend Development
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" alt="DevOps" />
 
-<img src="https://skillicons.dev/icons?i=numpy,vscode,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=numpy,sklearn,vscode,figma" alt="Tools" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" />
 
