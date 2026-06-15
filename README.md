@@ -19,11 +19,11 @@ Backend Development • REST APIs • OAuth • JWT • Database Design
 </h3>
 
 <h3 align="center">
-PostgreSQL • MongoDB • Prisma • Redis • Docker • BullMQ
+PostgreSQL • MongoDB • Prisma • Redis • Docker
 </h3>
 
 <h3 align="center">
-TypeScript • Bun • Express • Data Structures & Algorithms
+TypeScript • Node.js • Bun • Express • API Design • Data Structures & Algorithms
 </h3>
 
 <h3 align="center">
@@ -39,14 +39,13 @@ System Design • BullMQ • AWS • Scalable Backend Architecture
 
 
 
-
 ---
 
 
 <h2 align="center">Featured Interests</h2>
 
 <h3 align="center">
-Backend Engineering • Distributed Systems • GenAI Applications • Problem Solving
+Backend Engineering  • GenAI Applications • Problem Solving
 </h3>
 
 
