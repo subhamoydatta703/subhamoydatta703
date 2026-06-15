@@ -1,8 +1,9 @@
 <h1 align="center">Subhamoy Datta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Problem+Solver;Building+AI-Powered+Applications;Learning+How+Great+Systems+Are+Built" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Problem+Solver;Building+AI-Powered+Scalable+Applications" />
 </p>
+
 
 
 <h2 align="center">About Me</h2>
