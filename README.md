@@ -19,7 +19,7 @@ Backend Development • REST APIs • OAuth • JWT • Database Design
 </h3>
 
 <h3 align="center">
-PostgreSQL • Prisma • Redis • Docker • Multer
+PostgreSQL • MongoDB • Prisma • Redis • Docker • BullMQ
 </h3>
 
 <h3 align="center">
