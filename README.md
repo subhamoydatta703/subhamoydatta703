@@ -1,14 +1,16 @@
 <h1 align="center">Subhamoy Datta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Problem+Solver;Machine+Learning+Enthusiast;Creative+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Building+Scalable+Applications;Problem+Solver;AI+%26+ML+Enthusiast" />
 </p>
 
 <h2 align="center">About Me</h2>
 
 <h3 align="center">
-Backend Developer • Problem Solver • Machine Learning Enthusiast
+Backend Developer • Problem Solver • AI & ML Enthusiast
 </h3>
+
+
 
 <h2 align="center">Core Skills</h2>
 
@@ -17,18 +19,36 @@ Backend Development • REST APIs • OAuth • JWT • Database Design
 </h3>
 
 <h3 align="center">
-Redis • Docker • Multer • Data Structures & Algorithms
+PostgreSQL • Prisma • Redis • Docker • Multer
 </h3>
 
 <h3 align="center">
-Machine Learning: NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+TypeScript • Bun • Express • Data Structures & Algorithms
+</h3>
+
+<h3 align="center">
+Machine Learning • Scikit-learn • GenAI Integration
 </h3>
 
 <h2 align="center">Currently Learning</h2>
 
 <h3 align="center">
-System Design • BullMQ • AWS • GenAI Backend Development
+System Design • BullMQ • AWS • Scalable Backend Architecture
 </h3>
+
+
+
+
+
+---
+
+
+<h2 align="center">Featured Interests</h2>
+
+<h3 align="center">
+Backend Engineering • Distributed Systems • GenAI Applications • Problem Solving
+</h3>
+
 
 ---
 
@@ -51,6 +71,8 @@ System Design • BullMQ • AWS • GenAI Backend Development
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" />
 
 </p>
+
+
 
 ---
 
@@ -93,5 +115,5 @@ System Design • BullMQ • AWS • GenAI Backend Development
 ---
 
 <p align="center">
-  <strong>Building Scalable Backend Systems & Turning Ideas into Software.</strong>
+  <strong>Building Scalable Backend Applications and Turning Ideas into Software.</strong>
 </p>
