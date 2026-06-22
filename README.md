@@ -1,21 +1,23 @@
 <h1 align="center">Subhamoy Datta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Developer;Problem+Solver;Building+AI-Powered+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Problem+Solver;Building+Production-Ready+Backend+Systems;Building+AI-Powered+Applications" />
 </p>
 
 <h2 align="center">About Me</h2>
 
 <h3 align="center">
-Backend Developer • Problem Solver • AI & ML Enthusiast
+Backend Engineer • AI Engineer • Problem Solver
 </h3>
 
 ---
+
 <h2 align="center">Core Skills</h2>
 
 <table align="center">
+
 <tr>
-<td><strong>Backend</strong></td>
+<td><strong>Backend Engineering</strong></td>
 <td>Backend Development • REST APIs • Authentication • Authorization • API Design</td>
 </tr>
 
@@ -31,12 +33,12 @@ Backend Developer • Problem Solver • AI & ML Enthusiast
 
 <tr>
 <td><strong>Database</strong></td>
-<td>PostgreSQL • MySQL • MongoDB • Prisma ORM  • Database Design</td>
+<td>PostgreSQL • MySQL • MongoDB • Prisma ORM • Database Design</td>
 </tr>
 
 <tr>
 <td><strong>Backend Systems</strong></td>
-<td>Redis • BullMQ • Webhooks • Multer</td>
+<td>Redis • BullMQ • Rate Limiting • Webhooks • Multer</td>
 </tr>
 
 <tr>
@@ -45,13 +47,13 @@ Backend Developer • Problem Solver • AI & ML Enthusiast
 </tr>
 
 <tr>
-<td><strong>DevOps & Infrastructure</strong></td>
-<td>Docker • Docker Compose • Containerization</td>
+<td><strong>Cloud & Deployment</strong></td>
+<td>AWS S3 • Docker • Docker Compose • Vercel • Render</td>
 </tr>
 
 <tr>
 <td><strong>AI Integration</strong></td>
-<td>GenAI Integration • Google Gemini API</td>
+<td>Google Gemini API • GenAI Integration</td>
 </tr>
 
 <tr>
@@ -63,17 +65,23 @@ Backend Developer • Problem Solver • AI & ML Enthusiast
 <td><strong>Problem Solving</strong></td>
 <td>Data Structures & Algorithms • LeetCode • NeetCode</td>
 </tr>
-</table>
 
+</table>
 
 ---
 
 <h2 align="center">Currently Learning</h2>
 
 <table align="center">
+
 <tr>
 <td><strong>Backend Engineering</strong></td>
 <td>Advanced SQL • System Design Fundamentals</td>
+</tr>
+
+<tr>
+<td><strong>Problem Solving</strong></td>
+<td>Data Structures & Algorithms</td>
 </tr>
 
 <tr>
@@ -82,14 +90,15 @@ Backend Developer • Problem Solver • AI & ML Enthusiast
 </tr>
 
 <tr>
-<td><strong>Cloud</strong></td>
-<td>AWS Cloud • Object Storage (S3)</td>
+<td><strong>Cloud & Infrastructure</strong></td>
+<td>AWS Services • Cloud Architecture • Production Deployment</td>
 </tr>
 
 <tr>
 <td><strong>Architecture</strong></td>
 <td>Scalable Backend Architecture</td>
 </tr>
+
 </table>
 
 ---
@@ -97,12 +106,12 @@ Backend Developer • Problem Solver • AI & ML Enthusiast
 <h2 align="center">Featured Interests</h2>
 
 <h3 align="center">
-Backend Engineering • GenAI Applications • Problem Solving
+Backend Engineering • AI Engineering • Problem Solving
 </h3>
 
 ---
 
-## Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
 
@@ -114,7 +123,7 @@ Backend Engineering • GenAI Applications • Problem Solving
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis" alt="Databases" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,aws" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,aws" alt="Cloud & Deployment" />
 
 <img src="https://skillicons.dev/icons?i=numpy,sklearn,vscode" alt="Tools" />
 
@@ -124,23 +133,24 @@ Backend Engineering • GenAI Applications • Problem Solving
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multer-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Webhooks-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OAuth-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
 
 </p>
 
 ---
 
-
-
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false">
@@ -156,7 +166,7 @@ Backend Engineering • GenAI Applications • Problem Solving
 
 ---
 
-## Connect with Me
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://github.com/subhamoydatta703" target="_blank">
@@ -179,5 +189,5 @@ Backend Engineering • GenAI Applications • Problem Solving
 ---
 
 <p align="center">
-  <strong>Building Scalable Backend Applications and Turning Ideas into Software.</strong>
+  <strong>Building Production-Ready Backend Systems and AI-Powered Applications.</strong>
 </p>
