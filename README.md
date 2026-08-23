@@ -1,261 +1,235 @@
-<h1 align="center">Subhamoy Datta</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Building+Production-Ready+Backend+Systems;Building+AI-Powered+Applications;Always+Learning.+Always+Building." />
-</p>
-
-<p align="center">
-CS student building production-grade backend systems and RAG-powered AI applications — currently sharpening DSA, system design, and agentic workflows.
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔎 DocSense
-
-**RAG-powered document intelligence platform** that lets users upload documents and ask questions in natural language.
-
-**Highlights**
-- Asynchronous document processing
-- Document chunking via LangChain's text splitter
-- Semantic search using PostgreSQL + pgvector
-- AI-powered grounded responses with Gemini
-- Background job processing using BullMQ
-- Redis-backed sliding window rate limiting
-- Secure authentication with Clerk
-
-**Tech Stack**
-`React 19` `Vite` `TypeScript` `Bun` `Express` `LangChain` `PostgreSQL` `pgvector` `Redis` `BullMQ` `AWS S3` `Clerk` `Gemini API`
-
-**Links**
-🌐 [Live Demo](https://docsense-app.vercel.app) · 💻 [GitHub](https://github.com/subhamoydatta703/DocSense)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📄 Resumark
-
-**AI-powered resume analysis platform** featuring asynchronous processing, cloud storage, caching, and production-ready backend architecture.
-
-**Highlights**
-- Resume PDF parsing
-- AI-powered analysis with Gemini
-- Background processing using BullMQ
-- Redis caching
-- AWS S3 storage
-- Production deployment
-
-**Tech Stack**
-`Bun` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ` `AWS S3` `Clerk` `Gemini API`
-
-**Links**
-🌐 [Live Demo](https://resumark-webapp.vercel.app) · 💻 [GitHub](https://github.com/subhamoydatta703/Resumark)
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="100%" valign="top">
-
-### 🏠 ShelfLife
-
-**Full-stack household inventory and expiry-tracking app** that lets users register or log in, create or join a household with an invite code, add shared inventory items, and track whether items are fresh, expiring soon, expired, used, or wasted.
-
-**Highlights**
-- User registration and login with JWT-based sessions
-- Protected dashboard route
-- Household creation with generated invite codes
-- Join an existing household by invite code
-- Shared household inventory across members
-- Add, list, update, and delete items
-- Derived expiry status for fresh, expiring soon, and expired items
-- Item actions for marking items as used or wasted
-- Authenticated notification retrieval for user-specific expiry messages
-
-**Tech Stack**
-`React 18` `Vite` `React Router` `Axios` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `bcryptjs` `Joi`
-
-**Links**
-🌐 [Live Demo](https://shelf-life-webapp.vercel.app) · 💻 [GitHub](https://github.com/subhamoydatta703/Shelf-Life)
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">💼 What I Build</h2>
-
-<p align="center">
-REST APIs • Backend Systems • AI-Powered Applications • Retrieval-Augmented Generation (RAG) • Background Job Processing • Authentication & Authorization • Production-Ready Deployments • Cloud-Integrated Backend Services
-</p>
-
----
-
-<h2 align="center">🛠 Core Skills</h2>
-
-<table align="center">
-
-<tr>
-<td><strong>Backend Engineering</strong></td>
-<td>REST APIs • Backend Architecture • Authentication • Authorization • API Design</td>
-</tr>
-
-<tr>
-<td><strong>Languages</strong></td>
-<td>TypeScript • JavaScript • Java • Python • C</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>Node.js • Bun • Express</td>
-</tr>
-
-<tr>
-<td><strong>Databases</strong></td>
-<td>PostgreSQL • pgvector • MySQL • MongoDB • Prisma ORM</td>
-</tr>
-
-<tr>
-<td><strong>Backend Systems</strong></td>
-<td>Redis • BullMQ • Background Jobs • Rate Limiting • Webhooks • File Uploads</td>
-</tr>
-
-<tr>
-<td><strong>Authentication</strong></td>
-<td>OAuth • JWT • Clerk</td>
-</tr>
-
-<tr>
-<td><strong>Cloud & Infrastructure</strong></td>
-<td>Docker • Docker Compose • AWS S3 • Render • Vercel</td>
-</tr>
-
-<tr>
-<td><strong>AI Integration</strong></td>
-<td>Google Gemini API • RAG Pipelines • Vector Search • Prompt Engineering</td>
-</tr>
-
-<tr>
-<td><strong>Machine Learning</strong></td>
-<td>Scikit-learn • NumPy • Pandas</td>
-</tr>
-
-<tr>
-<td><strong>Problem Solving</strong></td>
-<td>Data Structures & Algorithms • LeetCode • NeetCode</td>
-</tr>
-
-</table>
-
----
-
-<h2 align="center">📚 Currently Learning</h2>
-
-<table align="center">
-
-<tr>
-<td><strong>Problem Solving</strong></td>
-<td>Data Structures & Algorithms</td>
-</tr>
-
-<tr>
-<td><strong>System Design</strong></td>
-<td>Low-Level Design</td>
-</tr>
-
-<tr>
-<td><strong>Backend Engineering</strong></td>
-<td>Advanced SQL</td>
-</tr>
-
-<tr>
-<td><strong>AI Engineering</strong></td>
-<td>AI Agents & Agentic Workflows</td>
-</tr>
-
-<tr>
-<td><strong>Computer Science</strong></td>
-<td>Computer Networking</td>
-</tr>
-
-</table>
-
----
-
-<h2 align="center">⚙️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,react,nextjs,tailwind,nodejs,express,bun,postgres,mysql,mongodb,prisma,redis,docker,aws,linux,bash,git,github,postman,vscode,numpy,sklearn" />
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="48" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-<img height="170" src="https://awesome-github-stats.azurewebsites.net/user-stats/subhamoydatta703?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamoydatta703&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D9FF&height=200&section=header&text=SUBHAMOY%20DATTA&fontSize=44&fontColor=E6F7FF&fontAlignY=35&animation=fadeIn&desc=GENAI%20BACKEND%20ENGINEER%20%7C%20RAG%20SYSTEMS%20%7C%20AI%20AGENTS&descAlignY=57&descSize=16"/>
 
 <a href="https://github.com/subhamoydatta703">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+production-grade+GenAI+backend+systems.;Designing+RAG+pipelines+for+grounded+retrieval.;Engineering+transparent+AI+agent+systems.;Focused+on+backend+and+AI+infrastructure." alt="Animated typing headline"/>
 </a>
 
-<a href="https://www.linkedin.com/in/subhamoy-datta">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=subhamoydatta703&style=for-the-badge&color=0B1F3A&label=PROFILE+VIEWS" />
+
+</div>
+
+<div align="center">
+
+```bash
+subhamoy@dev:~$ whoami
+subhamoydatta703
+
+subhamoy@dev:~$ cat role.txt
+GenAI Backend Engineer — RAG Systems & Agent Architecture
+
+subhamoy@dev:~$ cat status.txt
+B.Tech CSE (AI & ML) — building backend + AI systems in parallel
+
+subhamoy@dev:~$ _
+```
+
+</div>
+
+## Focus Areas
+
+**Building**
+REST APIs, backend architecture, RAG pipelines, vector search, background job systems, authentication and authorization, cloud-integrated services, agentic workflows.
+
+**Sharpening**
+Data Structures & Algorithms, Low-Level Design, Advanced SQL, backend system design, DevOps fundamentals.
+
+**Exploring next**
+Multi-agent orchestration, retrieval evaluation, distributed job queues at scale.
+
+## Somoy — Agent SDK
+
+<div align="center">
+
+<a href="https://www.npmjs.com/package/@subhamoy/somoy">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=%40subhamoy%2Fsomoy;Transparent%2C+Hand-Written+Agent+SDK;Plan+%E2%86%92+Act+%E2%86%92+Observe%2C+Fully+Inspectable;One+Interface.+Three+Providers.;No+Framework+Opinions%2C+No+Hidden+Retries" alt="Somoy animated title"/>
 </a>
 
-<a href="https://x.com/codebysubhamoy">
-<img src="https://skillicons.dev/icons?i=twitter" />
+</div>
+
+A transparent AI agent SDK for TypeScript, built around an explicit, inspectable `plan → act → observe` execution loop. No hidden state, no framework abstraction standing between the developer and what the agent is actually doing. Most agent frameworks ask you to inherit a large stack of opinions before you can see a single line of the loop — Somoy makes the opposite bet: a small, provider-agnostic runtime that a TypeScript developer can fully read and modify in an afternoon.
+
+**What sets it apart**
+The entire loop is one explicit, hand-written state machine, so every exit path can be traced and breakpointed directly. A single `ModelProvider` interface backs three interchangeable adapters — Gemini, OpenAI, and an offline Mock — so switching providers is a one-line change with nothing else in the agent touched. Failures are typed values rather than thrown exceptions: loop detection, handoff ping-pong, guardrail rejections, timeouts, and model errors all resolve to a `RunResult` carrying a status discriminant, so expected failure modes never need a try/catch.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=MODEL+selects+Gemini+%2F+OpenAI+%2F+Mock;PLAN+%E2%86%92+structured+output;ACT+%E2%86%92+execute+tools;OBSERVE+%E2%86%92+read+tool+results;done+%E2%86%92+typed+RunResult" alt="Animated plan-act-observe loop"/>
+
+</div>
+
+<div align="center">
+
+| Capability | Implementation |
+|---|---|
+| Model providers | Gemini · OpenAI · Offline Mock |
+| Type safety | TypeScript + Zod |
+| Tool execution | Typed tool inputs / outputs |
+| Structured outputs | Zod-inferred schemas |
+| Failure handling | Typed `RunResult` values |
+| Multi-agent | Transcript handoffs, ping-pong prevention |
+| Reliability | Retries · backoff · timeouts · loop detection |
+| Persistence | In-memory + SQLite |
+| Runtime | Bun · Node.js 18+ |
+
+</div>
+
+<div align="center">
+
+<a href="https://www.npmjs.com/package/@subhamoy/somoy">
+<img src="https://img.shields.io/npm/v/@subhamoy/somoy?style=for-the-badge&logo=npm&logoColor=white&color=00D9FF" />
+</a>
+<a href="https://github.com/subhamoydatta703/Agent-SDK">
+<img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="mailto:subhamoydatta703@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+</div>
 
-</p>
+## Selected Builds
 
----
+**DocSense**
+
+RAG-powered document intelligence platform for ingesting documents and knowledge sources and answering questions with grounded, source-backed responses.
 
 <p align="center">
-<strong>Building scalable backend systems, AI-powered applications, and continuously learning through real-world projects.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=INGEST%3A+PDF+%C2%B7+URL+%C2%B7+YouTube+%C2%B7+Text;PROCESS+%E2%86%92+CHUNK+%E2%86%92+EMBED;pgvector+semantic+search;Grounded+response+with+sources" alt="Animated DocSense pipeline"/>
 </p>
+
+Documents, web pages, YouTube transcripts, and raw text are chunked and embedded into PostgreSQL via pgvector. Before a query reaches the retriever, it passes through a step-back optimization stage that pulls broader, more relevant context instead of surface-level matches. Ingestion runs asynchronously through BullMQ and Redis, backed by rate limiting, input/output guardrails, and Clerk-based authentication.
+
+*Stack* — React · TypeScript · Bun · Express · PostgreSQL · pgvector · Redis · BullMQ · AWS S3 · Gemini API · Clerk
+
+<p align="center">
+  <a href="https://docsense-app.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" />
+  </a>
+  <a href="https://github.com/subhamoydatta703/DocSense">
+    <img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+**Resumark**
+
+AI-powered resume analysis platform with asynchronous processing, caching, and production-ready backend infrastructure.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=PDF+%E2%86%92+PARSE+%E2%86%92+QUEUE;AI+ANALYSIS%3A+ATS+%C2%B7+Skills+%C2%B7+Summary+%C2%B7+Formatting;Redis+%2B+Postgres+cache;Report+delivered" alt="Animated Resumark pipeline"/>
+</p>
+
+A resume is parsed, queued for analysis, and returned with an ATS score, skills breakdown, summary, and formatting feedback — generated by Gemini and run through a background job pipeline rather than a blocking API call. Results are cached in Redis and backed by Postgres, with resumes stored in AWS S3, so repeat runs stay fast under load.
+
+*Stack* — Bun · TypeScript · Express · PostgreSQL · Prisma · Redis · BullMQ · AWS S3 · Gemini API
+
+<p align="center">
+  <a href="https://resumark-webapp.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" />
+  </a>
+  <a href="https://github.com/subhamoydatta703/Resumark">
+    <img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+**ShelfLife**
+
+Full-stack household inventory and expiry-tracking application for shared household management.
+
+Households form around a simple invite code, and every member sees the same inventory with expiry status derived automatically — fresh, expiring soon, or already gone. Items are marked used or wasted as they're consumed, and JWT-based auth scopes each household's data to the people actually in it, with expiry notifications nudging users before food goes bad.
+
+*Stack* — React · Node.js · Express · MongoDB · JWT
+
+<p align="center">
+  <a href="https://shelf-life-webapp.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" />
+  </a>
+  <a href="https://github.com/subhamoydatta703/Shelf-Life">
+    <img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+## Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,nodejs,bun,express,react,nextjs,tailwind,postgres,mongodb,prisma,redis,docker,aws,linux,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/pgvector-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
+
+</div>
+
+## Skill Matrix
+
+<div align="center">
+
+| Domain | Skills |
+|---|---|
+| Backend | REST APIs, backend architecture, API design, authentication, authorization, background jobs, rate limiting, file uploads |
+| AI / GenAI | Gemini API, RAG pipelines, vector search, AI agents, agent SDK design, prompt engineering, structured outputs, Zod |
+| Data | PostgreSQL, pgvector, MongoDB, Prisma, Redis |
+| Infrastructure | Docker, AWS S3, Render, Vercel, Bun, Express |
+
+</div>
+
+## Activity Log
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamoydatta703&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+<br/><br/>
+
+<img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/subhamoydatta703?cardType=level-alternate&theme=dark&fontFamily=42dot%20Sans&preferLogin=false" />
+
+
+
+</div>
+
+## Elsewhere
+
+<div align="center">
+
+<a href="https://github.com/subhamoydatta703">
+<img src="https://skillicons.dev/icons?i=github" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subhamoy-datta">
+<img src="https://skillicons.dev/icons?i=linkedin" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/codebysubhamoy">
+<img src="https://skillicons.dev/icons?i=twitter" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:subhamoydatta703@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="52" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/subhamoydatta703">
+<img src="https://img.shields.io/badge/GITHUB-SUBHAMOYDATTA703-0B1F3A?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+<a href="https://www.linkedin.com/in/subhamoy-datta">
+<img src="https://img.shields.io/badge/LINKEDIN-SUBHAMOY%20DATTA-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+<a href="https://x.com/itssubhamoy">
+<img src="https://img.shields.io/badge/X-CODEBYSUBHAMOY-0B1F3A?style=for-the-badge&logo=x&logoColor=00D9FF" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Rebuild;Backend+%2B+RAG+%2B+Agents" alt="Closing animation"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D9FF&height=110&section=footer&animation=fadeIn"/>
+
+</div>
