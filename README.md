@@ -176,7 +176,7 @@ Households form around a simple invite code, and every member sees the same inve
 | Backend | REST APIs, backend architecture, API design, authentication, authorization, background jobs, rate limiting, file uploads |
 | AI / GenAI | Gemini API, RAG pipelines, vector search, AI agents, agent SDK design, prompt engineering, structured outputs, Zod |
 | Data | PostgreSQL, pgvector, MongoDB, Prisma, Redis |
-| Infrastructure | Docker, AWS S3, Render, Vercel, Bun, Express |
+| Infrastructure | Docker, AWS, Render, Vercel, Bun, Express |
 
 </div>
 
@@ -184,7 +184,7 @@ Households form around a simple invite code, and every member sees the same inve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamoydatta703&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://ghchart.rshah.org/00D9FF/subhamoydatta703" width="100%" alt="GitHub contribution graph"/>
 
 <br/><br/>
 
@@ -199,31 +199,16 @@ Households form around a simple invite code, and every member sees the same inve
 <div align="center">
 
 <a href="https://github.com/subhamoydatta703">
-<img src="https://skillicons.dev/icons?i=github" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subhamoy-datta">
-<img src="https://skillicons.dev/icons?i=linkedin" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/codebysubhamoy">
-<img src="https://skillicons.dev/icons?i=twitter" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:subhamoydatta703@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="52" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/subhamoydatta703">
 <img src="https://img.shields.io/badge/GITHUB-SUBHAMOYDATTA703-0B1F3A?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
 <a href="https://www.linkedin.com/in/subhamoy-datta">
 <img src="https://img.shields.io/badge/LINKEDIN-SUBHAMOY%20DATTA-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
-<a href="https://x.com/itssubhamoy">
+<a href="https://x.com/codebysubhamoy">
 <img src="https://img.shields.io/badge/X-CODEBYSUBHAMOY-0B1F3A?style=for-the-badge&logo=x&logoColor=00D9FF" />
+</a>
+<a href="mailto:subhamoydatta703@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-SUBHAMOYDATTA703-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
 </a>
 
 <br/><br/>
