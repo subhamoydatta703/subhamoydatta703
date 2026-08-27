@@ -204,7 +204,7 @@ Households form around a simple invite code, and every member sees the same inve
 <a href="https://www.linkedin.com/in/subhamoy-datta">
 <img src="https://img.shields.io/badge/LINKEDIN-SUBHAMOY%20DATTA-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
-<a href="https://x.com/codebysubhamoy">
+<a href="https://x.com/itssubhamoy">
 <img src="https://img.shields.io/badge/X-CODEBYSUBHAMOY-0B1F3A?style=for-the-badge&logo=x&logoColor=00D9FF" />
 </a>
 <a href="mailto:subhamoydatta703@gmail.com">
