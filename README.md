@@ -1,4 +1,4 @@
-<div align="center">
+U<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D9FF&height=200&section=header&text=SUBHAMOY%20DATTA&fontSize=44&fontColor=E6F7FF&fontAlignY=35&animation=fadeIn&desc=GENAI%20BACKEND%20ENGINEER%20%7C%20RAG%20SYSTEMS%20%7C%20AI%20AGENTS&descAlignY=57&descSize=16"/>
 
@@ -205,7 +205,7 @@ Households form around a simple invite code, and every member sees the same inve
 <img src="https://img.shields.io/badge/LINKEDIN-SUBHAMOY%20DATTA-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
 <a href="https://x.com/itssubhamoy">
-<img src="https://img.shields.io/badge/X-CODEBYSUBHAMOY-0B1F3A?style=for-the-badge&logo=x&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/X-SUBHAMOY-0B1F3A?style=for-the-badge&logo=x&logoColor=00D9FF" />
 </a>
 <a href="mailto:subhamoydatta703@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-SUBHAMOYDATTA703-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
