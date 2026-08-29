@@ -57,7 +57,7 @@ The entire loop is one explicit, hand-written state machine, so every exit path 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=MODEL+selects+Gemini+%2F+OpenAI+%2F+Mock;PLAN+%E2%86%92+structured+output;ACT+%E2%86%92+execute+tools;OBSERVE+%E2%86%92+read+tool+results;done+%E2%86%92+typed+RunResult" alt="Animated plan-act-observe loop"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=PLAN+%E2%86%92+structured+output;ACT+%E2%86%92+execute+tools;OBSERVE+%E2%86%92+read+tool+results;done+%E2%86%92+typed+RunResult" alt="Animated plan-act-observe loop"/>
 
 </div>
 
@@ -93,16 +93,16 @@ The entire loop is one explicit, hand-written state machine, so every exit path 
 <div align="center">
 
 <a href="https://www.npmjs.com/package/rexa-agent">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=REXA;General-Purpose%2C+Single-Agent+Dev+Harness;Understand+%E2%86%92+Plan+%E2%86%92+Edit+%E2%86%92+Verify;Sandboxed+Git+%2C+Command+%26+Search+Tools;One+Continuous+Conversation" alt="REXA animated title"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=REXA;An+Autonomous+Dev+Agent;Multi-Step+Reasoning+%E2%86%92+Understand+Context+%E2%86%92+Agentic+Action;I%2FO+%26+Agentic+Actions+Secured+by+Guardrails+%26+Sandboxing;One+Continuous+Conversation" alt="REXA animated title"/>
 </a>
 
 </div>
 
-REXA is an agent, not a scripted tool runner: the model itself decides which capabilities a task needs and calls them in whatever order makes sense, observing results and iterating until the task is done. Given "fix this failing test," it maps the project, reads the relevant code, plans a fix, edits it, runs the tests, and iterates on failures — chaining repository inspection, real code edits, sandboxed commands, Git operations, and web research inside one conversation. Coding edits re-read files after every change so it works from actual results, not assumptions. Commands run sandboxed in Docker as a non-root user, and any consequential or state-changing action — Git operations, package installs, file deletion, and other commands with real side effects — requires explicit user confirmation before it executes, while read-only investigation proceeds on its own. Web research is handled through a layered fallback mechanism so a query still resolves if a given provider is unavailable, guardrails and secret scanning wrap every exchange, and API keys live in the OS credential vault via keytar.
+REXA is an agent, not a scripted tool runner: it decides which capabilities a task needs and calls them in whatever order makes sense, observing results and iterating until the task is done. Given "fix this failing test," it maps the project, reads the relevant code, plans a fix, edits it, runs the tests, and iterates on failures — chaining repository inspection, real code edits, sandboxed commands, Git operations, and web research inside one conversation. Coding edits re-read files after every change so it works from actual results, not assumptions. Commands run sandboxed in Docker as a non-root user, and any consequential or state-changing action — Git operations, package installs, file deletion, and other commands with real side effects — requires explicit user confirmation before it executes, while read-only investigation proceeds on its own. Web research is handled through a layered fallback mechanism so a query still resolves if a given provider is unavailable, guardrails and secret scanning wrap every exchange, and API keys live in the OS credential vault via keytar.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=UNDERSTAND+%E2%86%92+map+project+%2B+locate+files;PLAN+%E2%86%92+form+a+focused+solution;EDIT+%E2%86%92+create+%2F+write+%2F+targeted+patch;VERIFY+%E2%86%92+run+checks%2C+inspect+failures;REPORT+%E2%86%92+explain+what+changed" alt="Animated REXA loop"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Map+the+project+%26+locate+relevant+files;Read+the+implementation+%26+its+context;Form+a+plan+%26+make+a+focused+change;Run+the+appropriate+checks+or+tests;Inspect+failures+%26+iterate;Explain+what+changed+%26+what+was+verified" alt="Animated REXA bug-fix flow"/>
 
 </div>
 
