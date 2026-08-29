@@ -1,4 +1,4 @@
-U<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D9FF&height=200&section=header&text=SUBHAMOY%20DATTA&fontSize=44&fontColor=E6F7FF&fontAlignY=35&animation=fadeIn&desc=GENAI%20BACKEND%20ENGINEER%20%7C%20RAG%20SYSTEMS%20%7C%20AI%20AGENTS&descAlignY=57&descSize=16"/>
 
@@ -88,6 +88,50 @@ The entire loop is one explicit, hand-written state machine, so every exit path 
 
 </div>
 
+## REXA — Autonomous Agent Harness
+
+<div align="center">
+
+<a href="https://www.npmjs.com/package/rexa-agent">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=REXA;General-Purpose%2C+Single-Agent+Dev+Harness;Understand+%E2%86%92+Plan+%E2%86%92+Edit+%E2%86%92+Verify;Sandboxed+Git+%2C+Command+%26+Search+Tools;One+Continuous+Conversation" alt="REXA animated title"/>
+</a>
+
+</div>
+
+REXA is an agent, not a scripted tool runner: the model itself decides which capabilities a task needs and calls them in whatever order makes sense, observing results and iterating until the task is done. Given "fix this failing test," it maps the project, reads the relevant code, plans a fix, edits it, runs the tests, and iterates on failures — chaining repository inspection, real code edits, sandboxed commands, Git operations, and web research inside one conversation. Coding edits re-read files after every change so it works from actual results, not assumptions. Commands run sandboxed in Docker as a non-root user, and any consequential or state-changing action — Git operations, package installs, file deletion, and other commands with real side effects — requires explicit user confirmation before it executes, while read-only investigation proceeds on its own. Web research is handled through a layered fallback mechanism so a query still resolves if a given provider is unavailable, guardrails and secret scanning wrap every exchange, and API keys live in the OS credential vault via keytar.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=UNDERSTAND+%E2%86%92+map+project+%2B+locate+files;PLAN+%E2%86%92+form+a+focused+solution;EDIT+%E2%86%92+create+%2F+write+%2F+targeted+patch;VERIFY+%E2%86%92+run+checks%2C+inspect+failures;REPORT+%E2%86%92+explain+what+changed" alt="Animated REXA loop"/>
+
+</div>
+
+<div align="center">
+
+| Capability | Implementation |
+|---|---|
+| Agent loop | Multi-step reasoning + tool calling in one conversation |
+| Coding tools | Create · write · targeted edit, with grounded re-reads |
+| Command execution | Sandboxed Docker, non-root, timeouts, guardrails |
+| Git | Explicit approval per command; host vs. `/workspace` isolation |
+| Search | Layered fallback across web search providers |
+| Safety | Input/output guardrails, secret scanning |
+| Credentials | OS credential vault via keytar |
+| Runtime | Bun 1.3+ · Docker Desktop with Compose |
+
+</div>
+
+<div align="center">
+
+<a href="https://www.npmjs.com/package/rexa-agent">
+<img src="https://img.shields.io/npm/v/rexa-agent?style=for-the-badge&logo=npm&logoColor=white&color=00D9FF" />
+</a>
+<a href="https://github.com/subhamoydatta703/Agent-ADK">
+<img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</div>
+
 ## Selected Builds
 
 **DocSense**
@@ -132,23 +176,6 @@ A resume is parsed, queued for analysis, and returned with an ATS score, skills 
   </a>
 </p>
 
-**ShelfLife**
-
-Full-stack household inventory and expiry-tracking application for shared household management.
-
-Households form around a simple invite code, and every member sees the same inventory with expiry status derived automatically — fresh, expiring soon, or already gone. Items are marked used or wasted as they're consumed, and JWT-based auth scopes each household's data to the people actually in it, with expiry notifications nudging users before food goes bad.
-
-*Stack* — React · Node.js · Express · MongoDB · JWT
-
-<p align="center">
-  <a href="https://shelf-life-webapp.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" />
-  </a>
-  <a href="https://github.com/subhamoydatta703/Shelf-Life">
-    <img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-</p>
-
 ## Toolkit
 
 <div align="center">
@@ -164,6 +191,8 @@ Households form around a simple invite code, and every member sees the same inve
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
 
 </div>
 
@@ -174,9 +203,10 @@ Households form around a simple invite code, and every member sees the same inve
 | Domain | Skills |
 |---|---|
 | Backend | REST APIs, backend architecture, API design, authentication, authorization, background jobs, rate limiting, file uploads |
-| AI / GenAI | Gemini API, RAG pipelines, vector search, AI agents, agent SDK design, prompt engineering, structured outputs, Zod |
-| Data | PostgreSQL, pgvector, MongoDB, Prisma, Redis |
-| Infrastructure | Docker, AWS, Render, Vercel, Bun, Express |
+| AI / GenAI | Gemini API, RAG pipelines, vector search, AI agents, agent SDK & harness design, tool orchestration, prompt engineering, structured outputs, Zod |
+| Data | PostgreSQL, pgvector, MongoDB, Prisma, Redis, SQLite |
+| Infrastructure | Docker (sandboxed execution), AWS, Render, Vercel, Bun, Express, npm package publishing |
+| Safety & Tooling | Guardrails, secret scanning, credential vaulting, CLI design, sandboxed command execution |
 
 </div>
 
