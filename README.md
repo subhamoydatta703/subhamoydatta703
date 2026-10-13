@@ -1,250 +1,166 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D9FF&height=200&section=header&text=SUBHAMOY%20DATTA&fontSize=44&fontColor=E6F7FF&fontAlignY=35&animation=fadeIn&desc=GENAI%20BACKEND%20ENGINEER%20%7C%20RAG%20SYSTEMS%20%7C%20AI%20AGENTS&descAlignY=57&descSize=16"/>
+# Subhamoy Datta
 
-<a href="https://github.com/subhamoydatta703">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+production-grade+GenAI+backend+systems.;Designing+RAG+pipelines+for+grounded+retrieval.;Engineering+transparent+AI+agent+systems.;Focused+on+backend+and+AI+infrastructure." alt="Animated typing headline"/>
-</a>
+### GenAI · Agentic AI · Backend Systems
 
-<br/>
+I build AI products, agent systems, RAG pipelines, and backend infrastructure with a strong focus on how things work under the hood.
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://subhamoydattaportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhamoy-datta/)
+[![X](https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/itssubhamoy)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:subhamoydatta703@gmail.com)
 
 </div>
 
-<div align="center">
+---
 
-```bash
-subhamoy@dev:~$ whoami
-subhamoydatta703
+## About
 
-subhamoy@dev:~$ cat role.txt
-GenAI Backend Engineer — RAG Systems & Agent Architecture
-
-subhamoy@dev:~$ cat status.txt
-B.Tech CSE (AI & ML) — building backend + AI systems in parallel
-
-subhamoy@dev:~$ _
+```text
+Current focus   → GenAI + Agentic AI + Backend Engineering
+Building        → AI agents, RAG systems, APIs, async pipelines, developer tooling
+Main stack      → TypeScript, Bun/Node.js, React, PostgreSQL, Redis, Docker, AWS
 ```
 
-</div>
+I like building systems that are practical, inspectable, and production-oriented — not just demos. Most of my work sits at the intersection of **AI application engineering and backend infrastructure**.
 
-## Focus Areas
+## Featured Work
 
-**Building**
-REST APIs, backend architecture, RAG pipelines, vector search, background job systems, authentication and authorization, cloud-integrated services, agentic workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Sharpening**
-Data Structures & Algorithms, Low-Level Design, Advanced SQL, backend system design, DevOps fundamentals.
+### REXA
+**Autonomous developer agent harness**
 
-**Exploring next**
-Multi-agent orchestration, retrieval evaluation, distributed job queues at scale.
+A TypeScript/Bun agent that can inspect repositories, edit code, execute sandboxed commands, work with Git, research on the web, and iterate across multi-step tasks.
 
-## Somoy — Agent SDK
+**Highlights**
+- Multi-step tool-calling agent loop
+- Docker sandbox with non-root execution
+- Guardrails + credential leak prevention
+- Explicit approval for consequential actions
+- Layered search fallback
 
-<div align="center">
+`TypeScript` `Bun` `Docker` `Gemini` `Git` `CLI`
 
-<a href="https://www.npmjs.com/package/@subhamoy/somoy">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=%40subhamoy%2Fsomoy;Transparent%2C+Hand-Written+Agent+SDK;Plan+%E2%86%92+Act+%E2%86%92+Observe%2C+Fully+Inspectable;One+Interface.+Three+Providers.;No+Framework+Opinions%2C+No+Hidden+Retries" alt="Somoy animated title"/>
-</a>
+[Source](https://github.com/subhamoydatta703/Agent-ADK) · [npm](https://www.npmjs.com/package/rexa-agent)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-A transparent AI agent SDK for TypeScript, built around an explicit, inspectable `plan → act → observe` execution loop. No hidden state, no framework abstraction standing between the developer and what the agent is actually doing. Most agent frameworks ask you to inherit a large stack of opinions before you can see a single line of the loop — Somoy makes the opposite bet: a small, provider-agnostic runtime that a TypeScript developer can fully read and modify in an afternoon.
+### Somoy
+**Transparent TypeScript agent SDK**
 
-**What sets it apart**
-The entire loop is one explicit, hand-written state machine, so every exit path can be traced and breakpointed directly. A single `ModelProvider` interface backs three interchangeable adapters — Gemini, OpenAI, and an offline Mock — so switching providers is a one-line change with nothing else in the agent touched. Failures are typed values rather than thrown exceptions: loop detection, handoff ping-pong, guardrail rejections, timeouts, and model errors all resolve to a `RunResult` carrying a status discriminant, so expected failure modes never need a try/catch.
+A small provider-agnostic SDK built around an explicit `plan → act → observe` loop, designed to keep agent execution readable and easy to inspect.
 
-<div align="center">
+**Highlights**
+- Typed tools and structured outputs
+- Gemini, OpenAI, and offline Mock providers
+- Typed failure states with `RunResult`
+- Multi-agent handoffs
+- Retries, timeouts, backoff, loop detection
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=PLAN+%E2%86%92+structured+output;ACT+%E2%86%92+execute+tools;OBSERVE+%E2%86%92+read+tool+results;done+%E2%86%92+typed+RunResult" alt="Animated plan-act-observe loop"/>
+`TypeScript` `Zod` `Bun` `Node.js` `SQLite`
 
-</div>
+[Source](https://github.com/subhamoydatta703/Agent-SDK) · [npm](https://www.npmjs.com/package/@subhamoy/somoy)
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Capability | Implementation |
-|---|---|
-| Model providers | Gemini · OpenAI · Offline Mock |
-| Type safety | TypeScript + Zod |
-| Tool execution | Typed tool inputs / outputs |
-| Structured outputs | Zod-inferred schemas |
-| Failure handling | Typed `RunResult` values |
-| Multi-agent | Transcript handoffs, ping-pong prevention |
-| Reliability | Retries · backoff · timeouts · loop detection |
-| Persistence | In-memory + SQLite |
-| Runtime | Bun · Node.js 18+ |
+### DocSense
+**Multi-source RAG platform**
 
-</div>
+Ingests PDFs, websites, YouTube transcripts, and raw text, then answers questions using grounded retrieval over pgvector-backed embeddings.
 
-<div align="center">
+**Highlights**
+- Multi-source ingestion pipeline
+- Asynchronous processing with BullMQ
+- pgvector semantic retrieval
+- Step-back query optimization
+- Guardrails, rate limiting, auth, and S3 storage
 
-<a href="https://www.npmjs.com/package/@subhamoy/somoy">
-<img src="https://img.shields.io/npm/v/@subhamoy/somoy?style=for-the-badge&logo=npm&logoColor=white&color=00D9FF" />
-</a>
-<a href="https://github.com/subhamoydatta703/Agent-SDK">
-<img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
+`React` `TypeScript` `Bun` `PostgreSQL` `pgvector` `Redis` `AWS`
 
-</div>
+[Live](https://docsense-app.vercel.app) · [Source](https://github.com/subhamoydatta703/DocSense)
 
-## REXA — Autonomous Agent Harness
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### Resumark
+**AI resume analysis platform**
 
-<a href="https://www.npmjs.com/package/rexa-agent">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=48&lines=REXA;An+Autonomous+Dev+Agent;Multi-Step+Reasoning+%E2%86%92+Understand+Context+%E2%86%92+Agentic+Action;I%2FO+%26+Agentic+Actions+Secured+by+Guardrails+%26+Sandboxing;One+Continuous+Conversation" alt="REXA animated title"/>
-</a>
+Processes resumes asynchronously and returns AI-generated analysis while keeping the request path fast through queues, caching, and persistent storage.
 
-</div>
+**Highlights**
+- Background analysis pipeline
+- Redis + PostgreSQL caching
+- BullMQ job processing
+- S3-backed resume storage
+- Production-oriented API architecture
 
-REXA is an agent, not a scripted tool runner: it decides which capabilities a task needs and calls them in whatever order makes sense, observing results and iterating until the task is done. Given "fix this failing test," it maps the project, reads the relevant code, plans a fix, edits it, runs the tests, and iterates on failures — chaining repository inspection, real code edits, sandboxed commands, Git operations, and web research inside one conversation. Coding edits re-read files after every change so it works from actual results, not assumptions. Commands run sandboxed in Docker as a non-root user, and any consequential or state-changing action — Git operations, package installs, file deletion, and other commands with real side effects — requires explicit user confirmation before it executes, while read-only investigation proceeds on its own. Web research is handled through a layered fallback mechanism so a query still resolves if a given provider is unavailable, guardrails and secret scanning wrap every exchange, and API keys live in the OS credential vault via keytar.
+`TypeScript` `Bun` `Express` `PostgreSQL` `Redis` `BullMQ` `AWS`
 
-<div align="center">
+[Live](https://resumark-webapp.vercel.app) · [Source](https://github.com/subhamoydatta703/Resumark)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Map+the+project+%26+locate+relevant+files;Read+the+implementation+%26+its+context;Form+a+plan+%26+make+a+focused+change;Run+the+appropriate+checks+or+tests;Inspect+failures+%26+iterate;Explain+what+changed+%26+what+was+verified" alt="Animated REXA bug-fix flow"/>
+</td>
+</tr>
+</table>
 
-</div>
+## What I Work With
 
-<div align="center">
-
-| Capability | Implementation |
-|---|---|
-| Agent loop | Multi-step reasoning + tool calling in one conversation |
-| Coding tools | Create · write · targeted edit, with grounded re-reads |
-| Command execution | Sandboxed Docker, non-root, timeouts, guardrails |
-| Git | Explicit approval per command; host vs. `/workspace` isolation |
-| Search | Layered fallback across web search providers |
-| Safety | Input/output guardrails, secret scanning |
-| Credentials | OS credential vault via keytar |
-| Runtime | Bun 1.3+ · Docker Desktop with Compose |
-
-</div>
-
-<div align="center">
-
-<a href="https://www.npmjs.com/package/rexa-agent">
-<img src="https://img.shields.io/npm/v/rexa-agent?style=for-the-badge&logo=npm&logoColor=white&color=00D9FF" />
-</a>
-<a href="https://github.com/subhamoydatta703/Agent-ADK">
-<img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-</div>
-
-## Selected Builds
-
-**DocSense**
-
-RAG-powered document intelligence platform for ingesting documents and knowledge sources and answering questions with grounded, source-backed responses.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=INGEST%3A+PDF+%C2%B7+URL+%C2%B7+YouTube+%C2%B7+Text;PROCESS+%E2%86%92+CHUNK+%E2%86%92+EMBED;pgvector+semantic+search;Grounded+response+with+sources" alt="Animated DocSense pipeline"/>
-</p>
-
-Documents, web pages, YouTube transcripts, and raw text are chunked and embedded into PostgreSQL via pgvector. Before a query reaches the retriever, it passes through a step-back optimization stage that pulls broader, more relevant context instead of surface-level matches. Ingestion runs asynchronously through BullMQ and Redis, backed by rate limiting, input/output guardrails, and Clerk-based authentication.
-
-*Stack* — React · TypeScript · Bun · Express · PostgreSQL · pgvector · Redis · BullMQ · AWS S3 · Gemini API · Clerk
-
-<p align="center">
-  <a href="https://docsense-app.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" />
-  </a>
-  <a href="https://github.com/subhamoydatta703/DocSense">
-    <img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-</p>
-
-**Resumark**
-
-AI-powered resume analysis platform with asynchronous processing, caching, and production-ready backend infrastructure.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=PDF+%E2%86%92+PARSE+%E2%86%92+QUEUE;AI+ANALYSIS%3A+ATS+%C2%B7+Skills+%C2%B7+Summary+%C2%B7+Formatting;Redis+%2B+Postgres+cache;Report+delivered" alt="Animated Resumark pipeline"/>
-</p>
-
-A resume is parsed, queued for analysis, and returned with an ATS score, skills breakdown, summary, and formatting feedback — generated by Gemini and run through a background job pipeline rather than a blocking API call. Results are cached in Redis and backed by Postgres, with resumes stored in AWS S3, so repeat runs stay fast under load.
-
-*Stack* — Bun · TypeScript · Express · PostgreSQL · Prisma · Redis · BullMQ · AWS S3 · Gemini API
-
-<p align="center">
-  <a href="https://resumark-webapp.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" />
-  </a>
-  <a href="https://github.com/subhamoydatta703/Resumark">
-    <img src="https://img.shields.io/badge/SOURCE-0B1F3A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-</p>
-
-## Toolkit
+<table>
+<tr>
+<td valign="top"><strong>AI / GenAI</strong></td>
+<td>RAG · Vector Search · AI Agents · Tool Calling · Structured Outputs · Prompt Engineering · Guardrails</td>
+</tr>
+<tr>
+<td valign="top"><strong>Backend</strong></td>
+<td>REST APIs · API Design · Postman · Auth · Background Jobs · Rate Limiting · Queues · Caching · File Pipelines</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data</strong></td>
+<td>PostgreSQL · pgvector · Redis · MongoDB · Prisma · SQLite</td>
+</tr>
+<tr>
+<td valign="top"><strong>Infrastructure</strong></td>
+<td>Docker · AWS · Vercel · Render · Linux · GitHub · Bun · Node.js</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,nodejs,bun,express,react,nextjs,tailwind,postgres,mongodb,prisma,redis,docker,aws,linux,git,github,vscode&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/pgvector-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,nodejs,bun,express,react,nextjs,tailwind,postgres,mongodb,prisma,redis,docker,aws,postman,linux,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
 </div>
 
-## Skill Matrix
+## Engineering Interests
+
+- Agent architecture and orchestration
+- RAG quality, retrieval evaluation, and grounding
+- Reliable async processing and job systems
+- API gateways, quotas, rate limits, retries, and fault tolerance
+- System design through practical implementation
+- AI infrastructure and developer-facing AI tools
+
+## GitHub Activity
 
 <div align="center">
 
-| Domain | Skills |
-|---|---|
-| Backend | REST APIs, backend architecture, API design, authentication, authorization, background jobs, rate limiting, file uploads |
-| AI / GenAI | Gemini API, RAG pipelines, vector search, AI agents, agent SDK & harness design, tool orchestration, prompt engineering, structured outputs, Zod |
-| Data | PostgreSQL, pgvector, MongoDB, Prisma, Redis, SQLite |
-| Infrastructure | Docker (sandboxed execution), AWS, Render, Vercel, Bun, Express, npm package publishing |
-| Safety & Tooling | Guardrails, secret scanning, credential vaulting, CLI design, sandboxed command execution |
+<img src="https://github-readme-stats.vercel.app/api?username=subhamoydatta703&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamoydatta703&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
 
 </div>
 
-## Activity Log
+---
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00D9FF/subhamoydatta703" width="100%" alt="GitHub contribution graph"/>
+**Building AI systems. Learning the infrastructure behind them. Shipping what I learn.**
 
-<br/><br/>
-
-<img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/subhamoydatta703?cardType=level-alternate&theme=dark&fontFamily=42dot%20Sans&preferLogin=false" />
-
-
-
-</div>
-
-## Elsewhere
-
-<div align="center">
-
-<a href="https://github.com/subhamoydatta703">
-<img src="https://img.shields.io/badge/GITHUB-SUBHAMOYDATTA703-0B1F3A?style=for-the-badge&logo=github&logoColor=00D9FF" />
-</a>
-<a href="https://www.linkedin.com/in/subhamoy-datta">
-<img src="https://img.shields.io/badge/LINKEDIN-SUBHAMOY%20DATTA-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-</a>
-<a href="https://x.com/itssubhamoy">
-<img src="https://img.shields.io/badge/X-SUBHAMOY-0B1F3A?style=for-the-badge&logo=x&logoColor=00D9FF" />
-</a>
-<a href="mailto:subhamoydatta703@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-SUBHAMOYDATTA703-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Rebuild;Backend+%2B+RAG+%2B+Agents" alt="Closing animation"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F3A,100:00D9FF&height=110&section=footer&animation=fadeIn"/>
+[GitHub](https://github.com/subhamoydatta703) · [LinkedIn](https://www.linkedin.com/in/subhamoy-datta/) · [X](https://x.com/itssubhamoy) · [Portfolio](https://subhamoydattaportfolio.vercel.app/)
 
 </div>
